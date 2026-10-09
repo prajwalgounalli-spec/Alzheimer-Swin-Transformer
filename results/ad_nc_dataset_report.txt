@@ -1,0 +1,8 @@
+AD vs NC DATASET PREPARATION REPORT
+============================================================
+AD images : 18365
+NC images : 9014
+Total     : 27379
+Cross-class groups removed : 53
+Duplicate groups reduced   : 2590
+============================================================

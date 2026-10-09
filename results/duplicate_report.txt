@@ -1,0 +1,9 @@
+ALZHEIMER MRI DATASET DUPLICATE REPORT
+============================================================
+Total images checked       : 33984
+Images with errors         : 0
+Unique hashes              : 27432
+Duplicate groups           : 2643
+Images in duplicates       : 9195
+Cross-class duplicate groups: 101
+============================================================

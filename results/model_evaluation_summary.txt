@@ -1,0 +1,21 @@
+SWIN TRANSFORMER-TINY - TEST EVALUATION
+=======================================
+Checkpoint: best_swin_tiny_v5.pth
+Test images: 133
+Classes: ['AD', 'NC']
+Test accuracy: 75.19%
+Test ROC-AUC (AD positive class): 0.8478
+
+Classification report:
+              precision    recall  f1-score   support
+
+          AD       0.70      0.88      0.78        66
+          NC       0.84      0.63      0.72        67
+
+    accuracy                           0.75       133
+   macro avg       0.77      0.75      0.75       133
+weighted avg       0.77      0.75      0.75       133
+
+Confusion matrix (rows=true, columns=predicted; classes=['AD', 'NC']):
+[[58  8]
+ [25 42]]
